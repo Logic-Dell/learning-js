@@ -11,3 +11,8 @@ name = "henry"; // declaring and assigning without var
 // let
 let animal = dog; // declaring a variable and assigning a value
 animal = cat; // assigning a new value
+
+
+// const
+const number = 67; 
+// a new value can not be assigned to the variable number because of the const keyword
