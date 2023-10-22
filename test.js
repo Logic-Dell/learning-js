@@ -7,3 +7,7 @@ let message = "Hello World!";
  * is stored in the variable
  */
 console.log(message)
+
+var petName = 'Peace';
+var pet = `The name of my pet is ${petName}`;
+console.log(pet)
